@@ -18,7 +18,7 @@ public class DerivFunction {
 
 	
 	/**
-     * Constructor.
+        * Constructor.
      */
 	public DerivFunction(int _N, double[] _initialValues) {
 		this.N = _N;
